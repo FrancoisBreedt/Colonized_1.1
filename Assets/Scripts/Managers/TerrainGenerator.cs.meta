@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68570b34fba69024fb39fc1021c6079f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Plane: {fileID: 919132149155446097, guid: 4a458a489cd19894eaec4102378749b1, type: 3}
+  - MainBase: {instanceID: 0}
+  - Rocks: {instanceID: 0}
+  - Crystals: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
